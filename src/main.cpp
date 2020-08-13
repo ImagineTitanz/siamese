@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <FirebaseESP8266.h>
 
 void setup()
 {
