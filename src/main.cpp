@@ -9,5 +9,5 @@ void loop() {
   digitalWrite(1, HIGH);
   delay(1000);
   digitalWrite(1, LOW);
-  delay(1000);
+  delay(1000); // delay de 1 segundo
 }
